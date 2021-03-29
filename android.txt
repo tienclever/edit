@@ -1,0 +1,11 @@
+java, android sdk
+debug, analytics(ID), Log
+Làm một số UI/Flow đơn giản
+Hyrid
+===========================
+backend: RestAPI
+Animation/Geture
+Testing: Manual/Automation
+Optimize code, chạy trên hiều hệ điều hành
+App/Component Architecture
+cách build/public lên appstore
